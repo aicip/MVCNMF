@@ -8,7 +8,7 @@ run "nmf_test.m"
 
 ## Contributors
 
-Lidan Miao
+Lidan Miao\\
 Hairong Qi (hqi@utk.edu)
 
 ## Reference
