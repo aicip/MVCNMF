@@ -1,6 +1,6 @@
 # MVCNMF 
 
-The Minimum Volume Constrained Non-negative Matrix Factorization (MVC-NMF) is an unsupervised endmember extraction algorithm and is designed for highly mixed image data.
+The Minimum Volume Constrained Non-negative Matrix Factorization (MVC-NMF) is an unsupervised endmember extraction algorithm. It is designed for highly mixed image data.
 
 ## Usage
 
