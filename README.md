@@ -6,8 +6,6 @@ The Minimum Volume Constrained Non-negative Matrix Factorization (MVC-NMF) is an
 
 run "nmf_test.m"
 
-    >> nmf_test.m
-
 ## Contributors
 
 Lidan Miao, Hairong Qi (hqi@utk.edu), EECS, University of Tennessee, Knoxville
